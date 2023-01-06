@@ -5,7 +5,6 @@
 - 👀 I’m interested in Machine Learning, competitive coding
 - 🌱 I’m currently learning Electrical Engineering from Jadavpur University(India,West Bengal)
 - 💞 I’m looking to collaborate on ML projects
-- ![Logo](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
 # Familiar With :confused:
 ![Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) 
@@ -22,7 +21,7 @@
 ![Logo](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Logo](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Logo](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Logo](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
 
 # IDEs used :writing_hand:
 ![Logo](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
